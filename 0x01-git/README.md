@@ -1,1 +1,1 @@
-My second readme
+Do't do update in GUI
